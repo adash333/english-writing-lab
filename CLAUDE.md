@@ -1,5 +1,6 @@
 # このリポジトリでの作業ルール
 
+- **毎回 /save-prompt を実行する**：ユーザーの依頼が終わるたびに、言われなくても [/save-prompt](.claude/skills/save-prompt/SKILL.md) の手順を実行する。それまでのすべての変更を `git add` して `main` に push する。ただし、このリポジトリは公開なので、プロンプト本文と結果の記録（`docs/prompt/`）はここに置かず、非公開の `writing-presentation-lab` の `docs/prompt/` に保存する（スキルの「このリポジトリでの例外」を参照）。
 - このリポジトリは、英語の Writing・Presentation を学ぶ無料サイト（GitHub Pages）です。教材は非公開の作業用リポジトリ `writing-presentation-lab` で作り、公開できるものだけを同じフォルダ構成でコピーします。どの教材を公開してよいかの正本は、そのリポジトリの `docs/repository-policy.md` です（非公開なので、このリポジトリからはリンクしない）。
 - **Kindle本と重なる内容は置かない**：
   - Narrative Writing の詳しい解説・模範物語・ワークシート・入門コースは置かない。`books/` の書籍紹介ページだけを置く。
