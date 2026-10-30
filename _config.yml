@@ -1,0 +1,6 @@
+title: English Writing Lab
+description: 英語圏の学校で学ぶ Writing と Presentation の型を、保護者が日本語で学べる無料サイト。
+lang: ja
+theme: jekyll-theme-primer
+exclude:
+  - CLAUDE.md
