@@ -18,7 +18,7 @@
 
 | 本 | 状態 |
 |---|---|
-| [インターナショナルスクールの英語作文がわかる本 — Narrative Writing（物語文）編](books/narrative-writing.md) | 準備中 |
+| [インターナショナルスクールの英語作文がわかる本 — Narrative Writing（物語文）編](books/narrative-writing.md) | 発売中（[Amazon](https://www.amazon.co.jp/dp/B0HQY24QD6)） |
 
 物語文（Narrative Writing）のくわしい書き方は、この本で扱います。
 
@@ -47,5 +47,5 @@
 **English Writing Lab** introduces the writing and presentation structures taught in English-speaking schools, explained in Japanese for parents. Lessons are added from the simplest first.
 
 - Lesson: [Show & Tell — first presentation lesson](lessons/presentation/show-and-tell.md) (ages 5–7)
-- Book (in preparation): [Narrative Writing](books/narrative-writing.md)
+- Book (available on [Amazon](https://www.amazon.co.jp/dp/B0HQY24QD6)): [Narrative Writing](books/narrative-writing.md)
 - Guides: [learning path](curriculum/learning-path.md), [writing taxonomy](writing/taxonomy.md), [presentation pathway](presentation/presentation-path.md), [pitching](presentation/pitching/guide.md), [academic publishing](academic-publishing/guide.md), [reading list](references/reading-list.md), [research notes](research/README.md)

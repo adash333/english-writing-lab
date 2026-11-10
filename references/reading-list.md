@@ -7,7 +7,7 @@
 - CGP English writing workbooks — UK year-level exercises (select by demonstrated proficiency).
 
 ## Narrative writing
-Narrative writing is covered in our Kindle book, *インターナショナルスクールの英語作文がわかる本：Narrative Writing編* (in preparation). See the [book page](../books/narrative-writing.md).
+Narrative writing is covered in our Kindle book, *インターナショナルスクールの英語作文がわかる本 — Narrative Writing（物語文）編* (available on [Amazon](https://www.amazon.co.jp/dp/B0HQY24QD6)). See the [book page](../books/narrative-writing.md).
 
 ## Academic writing / research
 - Gerald Graff & Cathy Birkenstein, *They Say / I Say* — argument and response.
@@ -41,7 +41,7 @@ Check editions, availability, copyright, permissions and curricular alignment be
 - CGPの英語ライティング・ワークブック — 英国の学年別練習問題（実際の習熟度に合わせて選ぶこと）。
 
 ### 物語文
-物語文（Narrative Writing）は、Kindle本『インターナショナルスクールの英語作文がわかる本：Narrative Writing編』（準備中）で扱います。[本の紹介ページ](../books/narrative-writing.md)をご覧ください。
+物語文（Narrative Writing）は、Kindle本『インターナショナルスクールの英語作文がわかる本 — Narrative Writing（物語文）編』（[Amazon](https://www.amazon.co.jp/dp/B0HQY24QD6)で発売中）で扱います。[本の紹介ページ](../books/narrative-writing.md)をご覧ください。
 
 ### アカデミック・ライティング／研究
 - Gerald Graff & Cathy Birkenstein『They Say / I Say』— 論証と応答。
