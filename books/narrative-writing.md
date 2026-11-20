@@ -1,10 +1,10 @@
-# Kindle本：インターナショナルスクールの英語作文がわかる本 — Narrative Writing（物語文）編
+# Kindle本：インターナショナルスクールの英語作文がわかる本① — Narrative Writing（物語文）編
 
 **発売中です（2026年11月8日発売）。** [Amazon の商品ページ](https://www.amazon.co.jp/dp/B0HQY24QD6)
 
-<a href="https://www.amazon.co.jp/dp/B0HQY24QD6"><img src="images/narrative-writing-cover.jpg" alt="本の表紙：インターナショナルスクールの英語作文がわかる本　Narrative Writing（物語文）編" width="240"></a>
+<a href="https://www.amazon.co.jp/dp/B0HQY24QD6"><img src="images/narrative-writing-cover.jpg" alt="本の表紙：インターナショナルスクールの英語作文がわかる本①　Narrative Writing（物語文）編" width="240"></a>
 
-- **書名**：インターナショナルスクールの英語作文がわかる本　Narrative Writing（物語文）編　親が日本語で学ぶ、物語の書き方と家庭での支え方
+- **書名**：インターナショナルスクールの英語作文がわかる本①　Narrative Writing（物語文）編　親が日本語で学ぶ、物語の書き方と家庭での支え方
 - **著者**：りさお
 - **形式**：Kindle本（Kindle Unlimited でも読めます）
 - **価格**：[Amazon の商品ページ](https://www.amazon.co.jp/dp/B0HQY24QD6)でご確認ください
@@ -43,6 +43,10 @@
 付録には、課題によく出る英語の語彙集、レベル別の模範作品、保護者用チェックリスト、1日15分×12回の学習プラン、全章の練習の解答例を入れています。
 
 発売のお知らせと、ブログの連載との違いは、[ブログ記事「Kindle本を出版しました」](https://risan.jpn.org/?p=17245)にまとめています。
+
+## シリーズの本
+
+続きの第2巻 [Opinion Writing（意見文）編](opinion-writing.md)も発売中です。*I think … because …* の1文から、理由と例のある意見文までを扱います。
 
 ## このサイトで読めること
 
