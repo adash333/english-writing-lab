@@ -61,6 +61,6 @@
 
 ## このサイトで読めること
 
-OREO、PEEL など段落の型の一覧は、[Writing の分類](../writing/taxonomy.md)にまとめています。シリーズの次の巻として、Essay Writing（エッセイ）編を準備しています。
+OREO、PEEL など段落の型の一覧は、[Writing の分類](../writing/taxonomy.md)にまとめています。シリーズの次の巻は、[Essay Writing 基本編（エッセイ基本編）](essay-writing.md)です。
 
 [← トップページに戻る](../README.md)

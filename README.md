@@ -20,8 +20,9 @@
 |---|---|
 | [インターナショナルスクールの英語作文がわかる本① — Narrative Writing（物語文）編](books/narrative-writing.md) | 発売中（[Amazon](https://www.amazon.co.jp/dp/B0HQY24QD6)） |
 | [インターナショナルスクールの英語作文がわかる本② — Opinion Writing（意見文）編](books/opinion-writing.md) | 発売中（[Amazon](https://www.amazon.co.jp/dp/B0HRJ8JMYK)） |
+| [インターナショナルスクールの英語作文がわかる本③ — Essay Writing 基本編（エッセイ基本編）](books/essay-writing.md) | 発売中（[Amazon](https://www.amazon.co.jp/dp/B0H1973XG7)） |
 
-物語文（Narrative Writing）と意見文（Opinion Writing）のくわしい書き方は、それぞれの本で扱います。
+物語文（Narrative Writing）・意見文（Opinion Writing）・エッセイ（Essay Writing）のくわしい書き方は、それぞれの本で扱います。
 
 ## 学びの全体像とガイド
 
@@ -48,5 +49,5 @@
 **English Writing Lab** introduces the writing and presentation structures taught in English-speaking schools, explained in Japanese for parents. Lessons are added from the simplest first.
 
 - Lesson: [Show & Tell — first presentation lesson](lessons/presentation/show-and-tell.md) (ages 5–7)
-- Books (available on Amazon): [Narrative Writing](books/narrative-writing.md), [Opinion Writing](books/opinion-writing.md)
+- Books (available on Amazon): [Narrative Writing](books/narrative-writing.md), [Opinion Writing](books/opinion-writing.md), [Essay Writing (basics)](books/essay-writing.md)
 - Guides: [learning path](curriculum/learning-path.md), [writing taxonomy](writing/taxonomy.md), [presentation pathway](presentation/presentation-path.md), [pitching](presentation/pitching/guide.md), [academic publishing](academic-publishing/guide.md), [reading list](references/reading-list.md), [research notes](research/README.md)
