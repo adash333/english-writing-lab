@@ -8,7 +8,7 @@
 - **著者**：りさお
 - **形式**：Kindle本（Kindle Unlimited でも読めます）。紙の本（ペーパーバック）も準備しています
 - **価格**：[Amazon の商品ページ](https://www.amazon.co.jp/dp/B0H1973XG7)でご確認ください
-- **シリーズ**：第1巻は [Narrative Writing（物語文）編](narrative-writing.md)、第2巻は [Opinion Writing（意見文）編](opinion-writing.md)
+- **シリーズ**：第1巻は [Narrative Writing（物語文）編](narrative-writing.md)、第2巻は [Opinion Writing（意見文）編](opinion-writing.md)、第4巻は [Essay Writing 発展編（エッセイ発展編）](essay-writing-advanced.md)
 
 ## どんな本？
 
